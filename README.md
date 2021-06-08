@@ -16,7 +16,6 @@
 <code><img width="32" src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="mysql"/></code>
 <code><img width="32" src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript"/></code>
 <code><img width="32" src="https://img.icons8.com/color/48/000000/vue-js.png" alt="vueJS"/></code>
-  <code><img width="32" src="https://img.icons8.com/color/48/000000/react-js.png" alt="reactJS"/></code>
 <code><img width="32" src="https://img.icons8.com/dusk/64/000000/webpack.png" alt="webpack"/></code>
 <code><img width="32" src="https://img.icons8.com/fluent/48/000000/laravel.png" alt="Laravel"/></code>
 <code><img width="32" src="https://img.icons8.com/color/48/000000/bootstrap.png"alt="Bootstrap"/></code>
