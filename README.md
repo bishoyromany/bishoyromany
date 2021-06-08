@@ -5,7 +5,7 @@
 - 🤔 I use daily ```.php```,``` .js```.
 - 💬 Talk to me about all what is a Laravel or Literature.
 - 💬 We can communicate in multiple languages : English & Arabic. 
-- 🌱 I’m currently learning NodeJs And VSCode Extensions Development :) .
+- 🌱 I’m currently learning NodeJs And VSCode Extensions Development :).
 - 😄 Pronouns: He/Him .
 - 📝 If You liked any of my repos or my projects don't forget to hit the star button , as it would be Awesome to Follow me on Github !
 
