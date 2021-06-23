@@ -7,7 +7,7 @@
 - 💬 We can communicate in multiple languages : English & Arabic. 
 - 🌱 I’m currently learning NodeJs And VSCode Extensions Development :).
 - 😄 Pronouns: He/Him .
-- 📝 If You liked any of my repos or my projects don't forget to hit the star button , as it would be Awesome to Follow me on Github !
+- 📝 If You like any of my repos or my projects don't forget to hit the star button , as it would be Awesome to Follow me on Github !
 
 <p align="center">
 <code><img width="32" src="https://img.icons8.com/dusk/64/000000/php-logo.png" alt="php"/></code>
