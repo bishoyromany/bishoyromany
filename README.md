@@ -32,7 +32,7 @@
 ### 🐱My Github stats:
 ![Bishoy's github stats](https://github-readme-stats.vercel.app/api?username=bishoyromany&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"]&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bishoyromany&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/bishoyromany/github-readme-stats)
-
+![](https://komarev.com/ghpvc/?username=bishoyromany&style=flat)
 ----
 Credit: [Bishoy Romany](https://github.com/bishoyromany)
 
