@@ -2,10 +2,10 @@
 
 ### About Me:
 - 🏦 I'm currently working as a freelancer Freelance, And a web developer in a team.
-- 🤔 I use daily ```.php```,``` .js```.
+- 🤔 I use daily ```.php```,``` .js```, ``` node.js```.
 - 💬 Talk to me about all what is a Laravel or Literature.
 - 💬 We can communicate in multiple languages : English & Arabic. 
-- 🌱 I’m currently learning NodeJs And VSCode Extensions Development :).
+- 🌱 I’m currently learning Machine Learning And DevOps :).
 - 😄 Pronouns: He/Him .
 - 📝 If You like any of my repos or my projects don't forget to hit the star button , as it would be Awesome to Follow me on Github !
 
