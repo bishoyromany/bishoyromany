@@ -3,9 +3,9 @@
 ### About Me:
 - 🏦 I'm currently working as a freelancer Freelance, And a web developer in a team.
 - 🤔 I use daily ```.php```,``` .js```, ``` node.js```.
-- 💬 Talk to me about all what is a Laravel or Literature.
-- 💬 We can communicate in multiple languages : English & Arabic. 
-- 🌱 I’m currently learning Machine Learning And DevOps :).
+- 💬 Talk to me about all what is a Laravel or Express.
+- 💬 I can communicate in multiple languages : English & Arabic. 
+- 🌱 I’m currently learning Microservices And DevOps :).
 - 😄 Pronouns: He/Him .
 - 📝 If You like any of my repos or my projects don't forget to hit the star button , as it would be Awesome to Follow me on Github !
 
@@ -36,4 +36,4 @@
 ----
 Credit: [Bishoy Romany](https://github.com/bishoyromany)
 
-Last Edited on: 08/06/2021
+Last Edited on: 03/03/2023
