@@ -1,7 +1,7 @@
 ## Hi there 
 
 ### About Me:
-- 🏦 I'm currently working as a freelancer Freelance, And a web developer in a team.
+- 🏦 I'm currently working as a software developer at Scopic software.
 - 🤔 I use daily ```.php```,``` .js```, ``` node.js```.
 - 💬 Talk to me about all what is a Laravel or Express.
 - 💬 I can communicate in multiple languages : English & Arabic. 
